@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{F6EC9D73-FE8F-4551-BA3F-A9405FE915EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA", "WFA\WFA.csproj", "{8AFAE0BD-1FB0-4275-940C-85C3CC7ED30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EC9D73-FE8F-4551-BA3F-A9405FE915EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EC9D73-FE8F-4551-BA3F-A9405FE915EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EC9D73-FE8F-4551-BA3F-A9405FE915EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC9D73-FE8F-4551-BA3F-A9405FE915EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFAE0BD-1FB0-4275-940C-85C3CC7ED30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFAE0BD-1FB0-4275-940C-85C3CC7ED30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFAE0BD-1FB0-4275-940C-85C3CC7ED30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFAE0BD-1FB0-4275-940C-85C3CC7ED30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
